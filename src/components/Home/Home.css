@@ -1,0 +1,8 @@
+.home_container{
+    background-color: #e3e3e3;
+    height: 100vh;
+}
+.text__container{
+    display: flex;
+    justify-content: space-between;
+}
